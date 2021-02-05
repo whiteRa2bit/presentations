@@ -1,5 +1,7 @@
 A list of my presentations (not full):
 
+- **[BERT Reranking Model (OpenTalks.ai)](BERT%20reranking%20model.pdf)** - Presented at OpenTalks.AI how one of Replika.ai, the world's largest English speaking chatbot, key components works, which allows to choose the most relevant answer from different dialogue models, including GPT-3, significantly improving the quality of the dialogue.
+
 - **[ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](ELECTRA.pdf)** - My presentation at the research seminar "Machine Learning and Applications" at the National Research University Higher School of Economics (November 18, 2020)
 
 - **[Generative Models for Fast Calorimeter Simulation](Generative%20Models%20for%20Fast%20Calorimeter%20Simulation.pdf)** - Delivered a presentation at the Laboratory of Methods for Big Data Analysis weekly seminar (September 28, 2020)
