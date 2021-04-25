@@ -1,5 +1,8 @@
 A list of my presentations (not full):
 
+- **[SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition
+](SpecAugment.pdf)** - Presented at YSDA Speech Course seminar (February 28, 2021)
+
 - **[BERT Reranking Model (OpenTalks.ai)](BERT%20reranking%20model.pdf)** - Presented at OpenTalks.AI how one of Replika.ai, the world's largest English speaking chatbot, key components works, which allows to choose the most relevant answer from different dialogue models, including GPT-3, significantly improving the quality of the dialogue (February 3, 2021)
 
 - **[ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](ELECTRA.pdf)** - My presentation at the research seminar "Machine Learning and Applications" at the National Research University Higher School of Economics (November 18, 2020)
